@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.scroll::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, and Edge */
+}
+.status::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, and Edge */
+}
